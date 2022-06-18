@@ -14,6 +14,7 @@
 | ------ | ------ | ------ |
 | 웹 하랭 | http://newhajinyoon.kro.kr/halang/ | 온라인 하랭 처리기
 | 깃헙 | https://github.com/newhajinyoon/halang | 이 페이지
+| 하랭 계산기 (친구가 만든) | http://naver.me/GE51chBp | 엔트리
 
 문법
 =
