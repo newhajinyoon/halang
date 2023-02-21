@@ -16,7 +16,7 @@
 
 | 이름 | 링크 | 내용 |
 | ------ | ------ | ------ |
-| 웹 하랭 | http://newhajinyoon.kro.kr/halang/ | 온라인 하랭 처리기
+| 웹 하랭 | https://newhajinyoon.github.io/halang-web/ | 온라인 하랭 처리기
 | 깃헙 | https://github.com/newhajinyoon/halang | 이 페이지
 | 하랭 계산기 (친구랑이같이 만든) | http://naver.me/GE51chBp | 엔트리
 
